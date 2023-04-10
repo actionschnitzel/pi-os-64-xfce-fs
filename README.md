@@ -36,7 +36,7 @@ sudo reboot
 ``` 
 sudo raspi-config
 ```
-- 1 Systm Options > S5 Boot/Auto Login > B3 Desktop
+- 1 System Options > S5 Boot/Auto Login > B3 Desktop
 - then exit and reboot    
     
 ### 7. Config Login:
