@@ -90,8 +90,8 @@ sudo thunar /usr/share/icons/
 ``` 
 sudo apt install numix-gtk-theme numix-icon-theme
 ```
-NOTE: To make a theme really global:
--Go to: 'Setting > Appearance and select a theme` then `Settings > Window Mangers Settings and select a theme`
+NOTE: To make a theme really global:    
+-Go to: `Setting > Appearance and select a theme` then `Settings > Window Mangers Settings and select a theme`
 In XCFE 4.18 it will be no longer nessasary to also change the Window Manager theme
     
 - My favorte is The Mint-Y Theme which is in this repo
