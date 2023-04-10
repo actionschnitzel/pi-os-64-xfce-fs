@@ -3,7 +3,7 @@
 
 
 
-### 1. Get Raspberry Pi OS arm64 Ligt and flash it:    
+### 1. Get Raspberry Pi OS arm64 Lite and flash it:    
 [raspberrypi.com](https://www.raspberrypi.com/software/operating-systems/)
     
 ### 2. Do the initial setup:
