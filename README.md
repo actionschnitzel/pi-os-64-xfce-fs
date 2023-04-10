@@ -95,7 +95,7 @@ NOTE: To make a theme really global:
 In XCFE 4.18 it will be no longer nessasary to also change the Window Manager theme
     
 - My favorte is The Mint-Y Theme which is in this repo
-- Also I use the Papirus Icon Theme + Papirus Folder Mod:
+- Also I use the Papirus Icon Theme + Papirus Folder Mod [Papirus](https://github.com/PapirusDevelopmentTeam/papirus-icon-theme):
 ``` 
 #Icon Theme:
 wget -qO- https://git.io/papirus-icon-theme-install | sh
