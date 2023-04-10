@@ -46,7 +46,7 @@ sudo raspi-config
 - Configure to you likes
 - Go to User TAB and uncheck "Hide User List"
 
-### 7. Install Pi Stuff:
+### 8. Install Pi Stuff:
 - All the Rasperry Pi custon tools are still missing
 ``` 
 sudo apt install rc-gui rp-bookshelf rp-prefapps
@@ -59,7 +59,7 @@ sudo apt install chromium-browser rpi-chomium-mods
 ``` 
 sudo apt install chromium-browser:armhf libwidevinecdm0
 ```
-### 8. Dev Stuff:
+### 9. Dev Stuff:
 - The Python env
 ``` 
 sudo apt install python3-dev python3-tk
@@ -71,7 +71,7 @@ sudo apt install thonny
 ``` 
 sudo apt install git
 ```
-### 9. Theme Part 1:
+### 10. Theme Part 1:
 [xfce-look.org](https://www.xfce-look.org/browse/)
 - to add a theme globaly:
 ``` 
@@ -85,7 +85,7 @@ sudo thunar /usr/share/icons/
 ```
 - copy the icons here
 
-### 9. Theme Part 2:
+### 10. Theme Part 2:
 - If you like the default Twister OS Theme:
 ``` 
 sudo apt install numix-gtk-theme numix-icon-theme
