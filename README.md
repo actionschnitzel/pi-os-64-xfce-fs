@@ -42,7 +42,7 @@ sudo raspi-config
 ### 7. Config Login:
 - Login with Name & Password
 - Go to the Start Menu > Settings 
-- Scroll down and open the Login Settins
+- Scroll down and open the Login Settings
 - Configure to you likes
 - Go to User TAB and uncheck "Hide User List"
 
